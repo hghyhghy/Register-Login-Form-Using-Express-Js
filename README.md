@@ -13,8 +13,10 @@ This is An Backend Project Using
 🔴To start  Express Project Run in your cmd/terminal 
 
                  npm install express-generator -g
+                 
  
                  express <my app> --view=ejs
+                 
 
                  npm install 
 

@@ -10,7 +10,7 @@
 
                  npm install express-generator -g
  
- 🔴              express <my app> --view=ejs
+                 express <my app> --view=ejs
 
                  npm install 
 
